@@ -1,4 +1,4 @@
-# 🌟 AboutMe
+<p aling="center"> # 🌟 AboutMe </p>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D22AQEqu-XA4Eet3g/feedshare-shrink_800/0/1689001775518?e=1701907200&v=beta&t=sQGt1kxHAiBiER367A0s4f1CZUqjYJG2jIZN6IJVxZg" alt="Logo do App" width="200">
 </p>
